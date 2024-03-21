@@ -18,4 +18,4 @@ At the heart of our analysis lies a dataset rich with diverse attributes, provid
 3. **Insights and Recommendations**: Finally, I synthesized the findings from the analysis into actionable insights. These insights could include  predicting future price trends, optimizing property listings, or informing investment decisions.
 
 ## Conclusion
-Following our analysis, we now possess a thorough grasp of the factors influencing house prices in Boston. With this understanding, Terro's Real Estate Agency is poised to improve pricing forecasts, strengthen market positioning, and execute well-informed strategic decisions within the real estate market.
+The outcomes of our analysis provide valuable insights into the determinants of house prices in the Boston real estate market. Through comprehensive regression modeling and hypothesis testing, we have identified key factors that significantly influence housing prices, including location, property characteristics, neighborhood demographics, and economic indicators.
