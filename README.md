@@ -18,4 +18,4 @@ At the heart of our analysis lies a dataset rich with diverse attributes, provid
 3. **Insights and Recommendations**: Finally, I synthesized the findings from the analysis into actionable insights. These insights could include  predicting future price trends, optimizing property listings, or informing investment decisions.
 
 ## Conclusion
-The outcomes of our analysis provide valuable insights into the determinants of house prices in the Boston real estate market. Through comprehensive regression modeling and hypothesis testing, we have identified key factors that significantly influence housing prices, including location, property characteristics, neighborhood demographics, and economic indicators.
+The outcomes of our analysis provide valuable insights into the determinants of house prices in the Boston real estate market. Through comprehensive regression modeling and hypothesis testing, we have identified key factors that significantly influence housing prices, including location, property characteristics, neighborhood demographics, and economic indicators..
